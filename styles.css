@@ -45,7 +45,7 @@ main {
 }
 
 .contenedor-papa {
-background-image: url(/imagenes/index.jpg);
+background-image: url(index.jpg);
     background-size: cover;
     height: 100%; 
 }
